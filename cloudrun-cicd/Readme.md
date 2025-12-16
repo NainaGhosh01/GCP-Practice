@@ -15,7 +15,7 @@ What the pipeline does:
 6. Deploy image to Cloud Run
 
 ## Google Cloud Services Used
--- Cloud Run – Serverless container hosting
--- Artifact Registry – Docker image storage
--- IAM – Service Account authentication
--- GitHub Actions – CI/CD automation
+- Cloud Run – Serverless container hosting
+- Artifact Registry – Docker image storage
+- IAM – Service Account authentication
+- GitHub Actions – CI/CD automation

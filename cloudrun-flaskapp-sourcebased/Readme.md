@@ -11,12 +11,12 @@ to Google Cloud Run directly from source code.
 
 ## Steps
 1. Create project folder
-mkdir cloud-run-flask
-cd cloud-run-flask
+    - mkdir cloud-run-flask
+    - cd cloud-run-flask
 2. Create Flask app: app.py
 3. Create requirements.txt
 4. Enable Cloud Run
-gcloud services enable run.googleapis.com
+    - gcloud services enable run.googleapis.com
    
 ## Deploy Command
 gcloud run deploy flask-cloud-run \

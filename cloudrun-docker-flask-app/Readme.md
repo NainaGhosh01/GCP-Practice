@@ -13,6 +13,7 @@ This project deploys a Flask application to Google Cloud Run using Docker.
 ```bash
 mkdir cloud-run-docker-flask
 cd cloud-run-docker-flask
+```
 
 2. Create app.py
 3. Create requirements.txt
